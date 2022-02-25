@@ -3,7 +3,7 @@
 I'm a IT student in Haaga-Helia. I enjoy creating things. Here you can find some of those.
 
 - 👀 I’m interested in software development, UI and UX design.
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning C#, Python and React Native.
 
 <!---
 vivuor/vivuor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
